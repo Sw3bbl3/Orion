@@ -1,0 +1,74 @@
+# Build directories
+build/
+dist/
+cache/
+cmake_build/
+*.cmake
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build outputs
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.dll
+*.so
+*.dylib
+*.d
+*.res
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+installer/art/*.bmp
+
+# Debug/Release
+Debug/
+Release/
+x64/
+Win32/
+
+# Dependencies (build artifacts)
+_deps/*/build/
+_deps/*/.cmake/
+_deps/*/CMakeCache.txt
+_deps/*/CMakeFiles/
+_deps/*/cmake_install.cmake
+_deps/

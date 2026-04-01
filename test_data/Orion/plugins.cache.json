@@ -1,0 +1,485 @@
+{
+    "records": [
+        {
+            "fileSize": 38129152,
+            "format": "VST3",
+            "lastModified": 134068054660000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Silver Llama Amp.vst3\\Contents\\x86_64-win\\Silver Llama Amp.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 38129152,
+                    "format": "VST3",
+                    "lastModified": 134068054660000000,
+                    "name": "Silver Llama Amp",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Silver Llama Amp.vst3\\Contents\\x86_64-win\\Silver Llama Amp.vst3",
+                    "subID": "ABCDEF019182FAEB53465044536C616D",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801148341016,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Silver Llama FX.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Reverb",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801148341016,
+                    "name": "Silver Llama FX",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Silver Llama FX.vst3\\Contents\\x86_64-win\\Silver Llama FX.vst3",
+                    "subID": "ABCDEF019182FAEB53465044536C6678",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 20100096,
+            "format": "VST3",
+            "lastModified": 134068070540000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Silver Llama FX.vst3\\Contents\\x86_64-win\\Silver Llama FX.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Reverb",
+                    "fileSize": 20100096,
+                    "format": "VST3",
+                    "lastModified": 134068070540000000,
+                    "name": "Silver Llama FX",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Silver Llama FX.vst3\\Contents\\x86_64-win\\Silver Llama FX.vst3",
+                    "subID": "ABCDEF019182FAEB53465044536C6678",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801159846049,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Sun Bear Bus Compressor.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Dynamics",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801159846049,
+                    "name": "Sun Bear Bus Compressor",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Sun Bear Bus Compressor.vst3\\Contents\\x86_64-win\\Sun Bear Bus Compressor.vst3",
+                    "subID": "ABCDEF019182FAEB53465044536E6263",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 47175680,
+            "format": "VST3",
+            "lastModified": 134068137820000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Sun Bear Bus Compressor.vst3\\Contents\\x86_64-win\\Sun Bear Bus Compressor.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Dynamics",
+                    "fileSize": 47175680,
+                    "format": "VST3",
+                    "lastModified": 134068137820000000,
+                    "name": "Sun Bear Bus Compressor",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Sun Bear Bus Compressor.vst3\\Contents\\x86_64-win\\Sun Bear Bus Compressor.vst3",
+                    "subID": "ABCDEF019182FAEB53465044536E6263",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801248651107,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\The Herd.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Dynamics",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801248651107,
+                    "name": "The Herd",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\The Herd.vst3\\Contents\\x86_64-win\\The Herd.vst3",
+                    "subID": "ABCDEF019182FAEB5346504448657264",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 50497536,
+            "format": "VST3",
+            "lastModified": 134097948260000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\The Herd.vst3\\Contents\\x86_64-win\\The Herd.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Dynamics",
+                    "fileSize": 50497536,
+                    "format": "VST3",
+                    "lastModified": 134097948260000000,
+                    "name": "The Herd",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\The Herd.vst3\\Contents\\x86_64-win\\The Herd.vst3",
+                    "subID": "ABCDEF019182FAEB5346504448657264",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801044399133,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\TimeMachine.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801044399133,
+                    "name": "TimeMachine",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\TimeMachine.vst3\\Contents\\x86_64-win\\TimeMachine.vst3",
+                    "subID": "ABCDEF019182FAEB53465044544D4348",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 54203904,
+            "format": "VST3",
+            "lastModified": 134074264020000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\TimeMachine.vst3\\Contents\\x86_64-win\\TimeMachine.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 54203904,
+                    "format": "VST3",
+                    "lastModified": 134074264020000000,
+                    "name": "TimeMachine",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\TimeMachine.vst3\\Contents\\x86_64-win\\TimeMachine.vst3",
+                    "subID": "ABCDEF019182FAEB53465044544D4348",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801152255776,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda Amp.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801152255776,
+                    "name": "Twin Panda Amp",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda Amp.vst3\\Contents\\x86_64-win\\Twin Panda Amp.vst3",
+                    "subID": "ABCDEF019182FAEB5346504454706E64",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 26861056,
+            "format": "VST3",
+            "lastModified": 134069257320000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda Amp.vst3\\Contents\\x86_64-win\\Twin Panda Amp.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 26861056,
+                    "format": "VST3",
+                    "lastModified": 134069257320000000,
+                    "name": "Twin Panda Amp",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda Amp.vst3\\Contents\\x86_64-win\\Twin Panda Amp.vst3",
+                    "subID": "ABCDEF019182FAEB5346504454706E64",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801156852553,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda FX.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Reverb",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801156852553,
+                    "name": "Twin Panda FX",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda FX.vst3\\Contents\\x86_64-win\\Twin Panda FX.vst3",
+                    "subID": "ABCDEF019182FAEB5346504454706678",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 17784320,
+            "format": "VST3",
+            "lastModified": 134068104940000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda FX.vst3\\Contents\\x86_64-win\\Twin Panda FX.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Reverb",
+                    "fileSize": 17784320,
+                    "format": "VST3",
+                    "lastModified": 134068104940000000,
+                    "name": "Twin Panda FX",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Twin Panda FX.vst3\\Contents\\x86_64-win\\Twin Panda FX.vst3",
+                    "subID": "ABCDEF019182FAEB5346504454706678",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801071155144,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Yak Delay.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Delay",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801071155144,
+                    "name": "Yak Delay",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Yak Delay.vst3\\Contents\\x86_64-win\\Yak Delay.vst3",
+                    "subID": "ABCDEF019182FAEB53465044594B444C",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 20059136,
+            "format": "VST3",
+            "lastModified": 134067904400000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Yak Delay.vst3\\Contents\\x86_64-win\\Yak Delay.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Delay",
+                    "fileSize": 20059136,
+                    "format": "VST3",
+                    "lastModified": 134067904400000000,
+                    "name": "Yak Delay",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Yak Delay.vst3\\Contents\\x86_64-win\\Yak Delay.vst3",
+                    "subID": "ABCDEF019182FAEB53465044594B444C",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 0,
+            "format": "VST3",
+            "lastModified": 134138801124537146,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Zebra Clipper.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 0,
+                    "format": "VST3",
+                    "lastModified": 134138801124537146,
+                    "name": "Zebra Clipper",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Zebra Clipper.vst3\\Contents\\x86_64-win\\Zebra Clipper.vst3",
+                    "subID": "ABCDEF019182FAEB534650445A636C70",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 50507264,
+            "format": "VST3",
+            "lastModified": 134068165380000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Zebra Clipper.vst3\\Contents\\x86_64-win\\Zebra Clipper.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 50507264,
+                    "format": "VST3",
+                    "lastModified": 134068165380000000,
+                    "name": "Zebra Clipper",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\SafariPedals\\Zebra Clipper.vst3\\Contents\\x86_64-win\\Zebra Clipper.vst3",
+                    "subID": "ABCDEF019182FAEB534650445A636C70",
+                    "type": "Effect",
+                    "vendor": "Safari Pedals"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 35869080,
+            "format": "VST3",
+            "lastModified": 134104595384978600,
+            "path": "C:\\Program Files\\Common Files\\VST3\\Supercharger.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Dynamics",
+                    "fileSize": 35869080,
+                    "format": "VST3",
+                    "lastModified": 134104595384978600,
+                    "name": "Supercharger",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\Supercharger.vst3",
+                    "subID": "5653544E692440737570657263686172",
+                    "type": "Effect",
+                    "vendor": "Native Instruments"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 15787520,
+            "format": "VST3",
+            "lastModified": 133212684820000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\Vital.vst3",
+            "plugins": [
+                {
+                    "category": "Instrument|Synth",
+                    "fileSize": 15787520,
+                    "format": "VST3",
+                    "lastModified": 133212684820000000,
+                    "name": "Vital",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\Vital.vst3",
+                    "subID": "56535456697461766974616C00000000",
+                    "type": "Instrument",
+                    "vendor": "Vital Audio"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 2102272,
+            "format": "VST3",
+            "lastModified": 134085075330000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Ozone 12 Equalizer.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|EQ",
+                    "fileSize": 2102272,
+                    "format": "VST3",
+                    "lastModified": 134085075330000000,
+                    "name": "Ozone 12 Equalizer",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Ozone 12 Equalizer.vst3",
+                    "subID": "5653545A425A554F7A6F6E652050726F",
+                    "type": "Effect",
+                    "vendor": "iZotope"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 2194432,
+            "format": "VST3",
+            "lastModified": 133916543550000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Ozone Imager 2.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Spatial",
+                    "fileSize": 2194432,
+                    "format": "VST3",
+                    "lastModified": 133916543550000000,
+                    "name": "Ozone Imager 2",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Ozone Imager 2.vst3",
+                    "subID": "5653545A4F49324F7A6F6E6520496D61",
+                    "type": "Effect",
+                    "vendor": "iZotope"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 2100224,
+            "format": "VST3",
+            "lastModified": 134030359840000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Trash.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 2100224,
+                    "format": "VST3",
+                    "lastModified": 134030359840000000,
+                    "name": "Trash",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Trash.vst3",
+                    "subID": "56535454727368547261736800000000",
+                    "type": "Effect",
+                    "vendor": "iZotope"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 2194432,
+            "format": "VST3",
+            "lastModified": 133912895510000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Vinyl.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Distortion",
+                    "fileSize": 2194432,
+                    "format": "VST3",
+                    "lastModified": 133912895510000000,
+                    "name": "Vinyl",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Vinyl.vst3",
+                    "subID": "565354695A566E695A6F746F70652056",
+                    "type": "Effect",
+                    "vendor": "iZotope"
+                }
+            ],
+            "scanSuccess": true
+        },
+        {
+            "fileSize": 2194432,
+            "format": "VST3",
+            "lastModified": 133934757320000000,
+            "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Vocal Doubler.vst3",
+            "plugins": [
+                {
+                    "category": "Fx|Modulation|Vocals",
+                    "fileSize": 2194432,
+                    "format": "VST3",
+                    "lastModified": 133934757320000000,
+                    "name": "Vocal Doubler",
+                    "path": "C:\\Program Files\\Common Files\\VST3\\iZotope\\Vocal Doubler.vst3",
+                    "subID": "565354495A5644566F63616C20446F75",
+                    "type": "Effect",
+                    "vendor": "iZotope"
+                }
+            ],
+            "scanSuccess": true
+        }
+    ],
+    "schemaVersion": 2
+}

@@ -1,0 +1,15 @@
+{
+    "audioBackend": 0,
+    "audioDeviceIndex": -1,
+    "audioDeviceName": "",
+    "bufferSize": 128,
+    "exclusiveMode": false,
+    "favorites": [],
+    "rootDataPath": "test_data/Orion",
+    "sampleRate": 48000,
+    "setupComplete": false,
+    "theme": "Dark",
+    "uiScale": 1.0,
+    "vst2Paths": [],
+    "vst3Paths": []
+}

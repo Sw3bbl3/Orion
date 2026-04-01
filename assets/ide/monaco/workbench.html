@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Orion Extensions IDE</title>
+  <link rel="stylesheet" href="workbench.css" />
+</head>
+<body>
+  <div id="toolbar">
+    <div class="toolbar-left">
+      <button id="saveBtn">Save</button>
+      <button id="runBtn">Run</button>
+      <span id="fileLabel">No file</span>
+    </div>
+    <div class="toolbar-right">
+      <span id="diagnosticBadge">0 problems</span>
+    </div>
+  </div>
+
+  <div id="editorHost"></div>
+
+  <div id="statusBar">
+    <span id="hoverLabel">Hover a symbol for docs</span>
+  </div>
+
+  <script>
+    window.__orionMonacoPath = './vs';
+  </script>
+  <script src="workbench.js"></script>
+</body>
+</html>

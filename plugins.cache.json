@@ -1,0 +1,68 @@
+[
+    {
+        "category": "WayV Plugin",
+        "fileSize": 0,
+        "format": "Internal",
+        "lastModified": 0,
+        "name": "Gain",
+        "path": "internal://Gain",
+        "subID": "",
+        "type": "Effect",
+        "vendor": "WayV"
+    },
+    {
+        "category": "WayV Plugin",
+        "fileSize": 0,
+        "format": "Internal",
+        "lastModified": 0,
+        "name": "EQ3",
+        "path": "internal://EQ3",
+        "subID": "",
+        "type": "Effect",
+        "vendor": "WayV"
+    },
+    {
+        "category": "WayV Plugin",
+        "fileSize": 0,
+        "format": "Internal",
+        "lastModified": 0,
+        "name": "Delay",
+        "path": "internal://Delay",
+        "subID": "",
+        "type": "Effect",
+        "vendor": "WayV"
+    },
+    {
+        "category": "WayV Plugin",
+        "fileSize": 0,
+        "format": "Internal",
+        "lastModified": 0,
+        "name": "Reverb",
+        "path": "internal://Reverb",
+        "subID": "",
+        "type": "Effect",
+        "vendor": "WayV"
+    },
+    {
+        "category": "WayV Plugin",
+        "fileSize": 0,
+        "format": "Internal",
+        "lastModified": 0,
+        "name": "Compressor",
+        "path": "internal://Compressor",
+        "subID": "",
+        "type": "Effect",
+        "vendor": "WayV"
+    },
+    {
+        "category": "WayV Plugin",
+        "fileSize": 0,
+        "format": "Internal",
+        "lastModified": 0,
+        "name": "Synthesizer",
+        "path": "internal://Synthesizer",
+        "subID": "",
+        "type": "Instrument",
+        "vendor": "WayV"
+    }
+]

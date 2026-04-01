@@ -1,0 +1,212 @@
+The system cannot find the path specified.
+==========================================
+Orion - Automated Build Script
+==========================================
+
+Searching for Visual Studio...
+Found Visual Studio at: "C:\Program Files\Microsoft Visual Studio\2022\Community"
+Initializing VS Environment...
+
+Configuring Project...
+-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+-- Configuring juceaide
+-- Building juceaide
+-- Exporting juceaide
+-- Testing juceaide
+-- Finished setting up juceaide
+-- Using the multi-header code from C:/Users/charl/OneDrive/Documents/GitHub/Orion/build/_deps/json-src/include/
+-- [SMTG] SMTG_AAX_SDK_PATH is not set. If you need it, please download the AAX SDK!
+-- Could NOT find LIBJACK (missing: LIBJACK_LIBRARIES LIBJACK_INCLUDE_DIR) 
+CMake Deprecation Warning at build/_deps/vst3sdk-src/base/CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Deprecation Warning at build/_deps/vst3sdk-src/public.sdk/CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Warning (dev) at C:/Program Files/CMake/share/cmake-4.0/Modules/FetchContent.cmake:1953 (message):
+  Calling FetchContent_Populate(lua) is deprecated, call
+  FetchContent_MakeAvailable(lua) instead.  Policy CMP0169 can be set to OLD
+  to allow FetchContent_Populate(lua) to be called directly for now, but the
+  ability to call it with declared details will be removed completely in a
+  future version.
+Call Stack (most recent call first):
+  CMakeLists.txt:60 (FetchContent_Populate)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (6.0s)
+-- Generating done (0.7s)
+-- Build files have been written to: C:/Users/charl/OneDrive/Documents/GitHub/Orion/build
+
+Building Project (Release)...
+MSBuild version 17.14.40+3e7442088 for .NET Framework
+
+  Checking File Globs
+  Orion_rc_lib.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Orion_rc_lib.dir\Release\Orion_rc_lib.lib
+  base.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\lib\Release\base.lib
+  pluginterfaces.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\lib\Release\pluginterfaces.lib
+  sdk_common.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\lib\Release\sdk_common.lib
+  sdk.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\lib\Release\sdk.lib
+  OrionCore.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\OrionCore.lib
+  liblua.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\liblua.lib
+  ExtensionTest.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\ExtensionTest.exe
+  Orion.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\Orion.exe
+  OscBenchmark.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\OscBenchmark.exe
+  OscTest.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\OscTest.exe
+  SettingsMigrationTest.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\SettingsMigrationTest.exe
+  TestBpmSync.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\TestBpmSync.exe
+  TestTranspose.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\TestTranspose.exe
+  TestUxState.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\Release\TestUxState.exe
+  sdk_hosting.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\lib\Release\sdk_hosting.lib
+  moduleinfotool.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\bin\Release\moduleinfotool.exe
+  validator.vcxproj -> C:\Users\charl\OneDrive\Documents\GitHub\Orion\build\bin\Release\validator.exe
+  Running validator selftest:
+  
+  [ConnectionProxy: Connect and disconnect]
+  [Succeeded]
+  
+  [ConnectionProxy: Disconnect wrong object]
+  [Succeeded]
+  
+  [ConnectionProxy: Send message on UI thread]
+  [Succeeded]
+  
+  [ConnectionProxy: Send message on 2nd thread]
+  [Succeeded]
+  
+  [EventList: Set and get single event]
+  [Succeeded]
+  
+  [EventList: Count events]
+  [Succeeded]
+  
+  [EventList: Overflow]
+  [Succeeded]
+  
+  [EventList: Get unknown event]
+  [Succeeded]
+  
+  [EventList: Resize]
+  [Succeeded]
+  
+  [HostApplication: Create instance of IAttributeList]
+  [Succeeded]
+  
+  [HostApplication: Create instance of IMessage]
+  [Succeeded]
+  
+  [HostAttributeList: Int]
+  [Succeeded]
+  
+  [HostAttributeList: Float]
+  [Succeeded]
+  
+  [HostAttributeList: String]
+  [Succeeded]
+  
+  [HostAttributeList: Binary]
+  [Succeeded]
+  
+  [HostAttributeList: Multiple Set]
+  [Succeeded]
+  
+  [ParameterValueQueue: Set paramID]
+  [Succeeded]
+  
+  [ParameterValueQueue: Set/get point]
+  [Succeeded]
+  
+  [ParameterValueQueue: Set/get multiple points]
+  [Succeeded]
+  
+  [ParameterValueQueue: Ordered points]
+  [Succeeded]
+  
+  [ParameterValueQueue: Clear]
+  [Succeeded]
+  
+  [ParameterChanges: Parameter count]
+  [Succeeded]
+  
+  [ParameterChanges: Clear queue]
+  [Succeeded]
+  
+  [ParameterChanges: Increase max parameters]
+  [Succeeded]
+  
+  [ParameterChanges: Get parameter data]
+  [Succeeded]
+  
+  [ParameterChangeTransfer: Add/get change]
+  [Succeeded]
+  
+  [ParameterChangeTransfer: Remove changes]
+  [Succeeded]
+  
+  [ParameterChangeTransfer: Transfer changes to]
+  [Succeeded]
+  
+  [ParameterChangeTransfer: Transfer changes from]
+  [Succeeded]
+  
+  [PlugInterfaceSupport: Initial interfaces]
+  [Succeeded]
+  
+  [PlugInterfaceSupport: Add interface]
+  [Succeeded]
+  
+  [PlugInterfaceSupport: Remove interface]
+  [Succeeded]
+  
+  [HostProcessData: No bus]
+  [Succeeded]
+  
+  [HostProcessData: 1 out bus no channels]
+  [Succeeded]
+  
+  [HostProcessData: 1 out bus 2 channels]
+  [Succeeded]
+  
+  [HostProcessData: 1 in & out bus 2 channels]
+  [Succeeded]
+  
+  [HostProcessData: 2 in & out bus dif channels]
+  [Succeeded]
+  
+  [HostProcessData: Set all channel buffers 32]
+  [Succeeded]
+  
+  [HostProcessData: Set all channel buffers 64]
+  [Succeeded]
+  
+  [HostProcessData: Set individual channel buffers 32]
+  [Succeeded]
+  
+  [HostProcessData: Set individual channel buffers 32 combined]
+  [Succeeded]
+  
+  [HostProcessData: Set individual channel buffers 64]
+  [Succeeded]
+  
+  [HostProcessData: Set individual channel buffers 64 combined]
+  [Succeeded]
+  
+  Executed 43 Tests.
+  0 failed test(s).
+
+==========================================
+Build Successful
+Executable: build\Release\Orion.exe
+==========================================
+
