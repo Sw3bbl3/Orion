@@ -127,6 +127,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
+## Community
+Join the discussion: https://github.com/WayV-Inc/Orion/discussions
+
+---
+
 ## 🔮 Vision & Roadmap
 
 Orion aims to become a next-generation open ecosystem for audio tools, providing a programmable environment for modern music production.
