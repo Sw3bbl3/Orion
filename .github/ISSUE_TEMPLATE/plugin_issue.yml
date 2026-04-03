@@ -1,0 +1,24 @@
+name: Plugin Issue
+description: Report issues with plugins
+title: "[Plugin] "
+labels: ["plugin"]
+body:
+  - type: input
+    id: plugin
+    attributes:
+      label: Plugin Name + Version
+
+  - type: input
+    id: type
+    attributes:
+      label: Plugin Type (VST, internal, etc.)
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: Issue Description
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
